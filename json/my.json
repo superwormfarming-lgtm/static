@@ -1,0 +1,21 @@
+{
+  "login": { "welcome": "မင်္ဂလာပါ သူဌေးလောင်း" },
+  "buttons": {
+    "login": "ဝင်ပါ",
+    "guest": "ယာယီအကောင့်",
+    "register": "အမြဲတမ်းအကောင့်"
+  },
+  "placeholders": {
+    "userId": "သင့်ကိုယ်ပိုင် အိုင်ဒီ",
+    "loginId": "လော့အင် အိုင်ဒီ",
+    "password": "စကားဝှက်",
+    "confirPassowrd": "အတည်ပြု စကားဝှက်",
+    "agentCode": "အေးဂျင့် ကုဒ် ( xxx )"
+  },
+  "footer": {
+    "copy": "Copyright @ ရွှေကျွဲ ဒပလော့ပါ အဖွဲ့မှ ၂၀၂၅ ခုနှစ်တွင် ရေးသားသည်။",
+    "dev": "Developed by NST@ Gambling Bank"
+  },
+
+  "register": { "registerMainTitle": "အမြဲတမ်း အကောင့်ဖွင့်ရန်" }
+}

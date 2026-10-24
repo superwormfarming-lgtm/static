@@ -1,0 +1,19 @@
+{
+  "login": { "welcome": "Welcome To Golden Buffalo" },
+  "buttons": { "login": "LOGIN", "guest": "GUEST", "register": "REGISTER" },
+  "placeholders": {
+    "userId": "User Id",
+    "loginId": "Login Id",
+    "password": "Password",
+    "confirPassowrd": "Confirm Password",
+    "agentCode": "Agent Code ( xxx )"
+  },
+  "footer": {
+    "copy": "Copyright @ 2025 Golden Buffalo. All Rights reserved.",
+    "dev": "Developed by Myanmar Game Development Team@Gambling Bank"
+  },
+
+  "register": { "registerMainTitle": "Full Register" },
+
+  "leave": { "leaveMainTitle": "ဂိမ်းမှထွက်လိုပါသလား" }
+}
